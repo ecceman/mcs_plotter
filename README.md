@@ -7,4 +7,7 @@ This is a very quick-and-dirty 200 rows-ish of python, only works on Linux (Wind
 ## Usage:
 Change the variables in the `poller.py` and `plot.py` file to fit your needs and simply run the poller first for a while. The CTRL+C to abort the polling and run `plot.py` to generate a static PNG image. RSSI are blue-ish bars hanging from the ceiling.
 
-![alt text](https://github.com/ecceman/mcs_plotter/blob/main/mcs_graph_draft1.png)
+![Simple graph](https://github.com/ecceman/mcs_plotter/blob/main/mcs_graph_draft1.png)
+
+
+![Graph with everything](https://github.com/ecceman/mcs_plotter/blob/main/graph.png)
